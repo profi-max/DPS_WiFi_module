@@ -1,3 +1,9 @@
+/*******************************************************************************
+Created by profi-max (Oleg Linnik) 2024
+https://profimaxblog.ru
+https://github.com/profi-max
+
+*******************************************************************************/
 #include <Arduino.h>
 #include <ESP8266WiFi.h>
 #include "SoftwareSerial.h"

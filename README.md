@@ -3,6 +3,12 @@ Based on the ESP8266 (ESP-12) module for communicate over Wifi with RD (Riden) p
  DPS5020 DPS5015 DPS5005 DPS8005 DPS3012 DPS3005 DPS3003
 Supported both stock Chinese and alternative firmware.
 
+## DPS alternative firmware
+Allow you control your wifi communication.
+https://profimaxblog.ru/dps_update/
+<image src="/Pictures/dps45_mainscreen.jpg" alt="DPS">
+
+
 ## How to flash ESP8266 (3 ways)
 1. Use finished firmware files from the folder **Binary**. Upload Flash Download Tools  from official page: https://www.espressif.com/en/support/download/other-tools
 Connect USB cable to your development board, run the application, select COM port and bin-file.
