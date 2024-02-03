@@ -37,9 +37,12 @@ DPSmaster officail page: https://profimaxblog.ru/dpsmaster/
 ![DPSmaster](/Pictures/DPSmaster.jpg)
 
 ## Video & Photo Gallery
+<details>
+<summary>Click to view the Gallery</summary>
 https://youtube.com/shorts/995Rk9Xic3o
 
 https://youtube.com/shorts/P--5Z4uEhjc
+</details>
 
 ## How to establish a connection with Wi-Fi Router.
 Push "WiFi Reset" button for 3 seconds. The ESP8266 module switch to access point mode. Open WiFi settings on your phone. Choose "DPS TCP bridge", no password needed. Then click "Configure WiFi", choose your router, enter password and click "Save". Now the ESP8266 module is in the station mode and connected to your wifi router.
