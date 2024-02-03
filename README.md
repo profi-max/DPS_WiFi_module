@@ -38,6 +38,7 @@ DPSmaster officail page: https://profimaxblog.ru/dpsmaster/
 
 ## Video & Photo Gallery
 https://youtube.com/shorts/995Rk9Xic3o
+
 https://youtube.com/shorts/P--5Z4uEhjc
 
 ## How to establish a connection with Wi-Fi Router.
