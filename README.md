@@ -21,6 +21,7 @@ Connect USB cable to your development board, run the application, select COM por
 
 ## Schematics
 The development board is needed only for flashing and debugging. After debugging, you can connect a module without a development board.
+In the NodeMcu dev board "FLASH" button connected to GPIO0, so you can use "FLASH" button as "WiFi Reset".
 You can use any board with ESP8266. 
 <details>
 <summary>I use this one: Click to view the  board</summary>
