@@ -37,19 +37,6 @@ In the DPSmaster application select "TCP" and enter correct ESP8266's local IP a
 DPSmaster officail page: https://profimaxblog.ru/dpsmaster/
 ![DPSmaster](/Pictures/DPSmaster.jpg)
 
-## Video & Photo Gallery
-<details>
-<summary>Click to view the Gallery</summary>
-https://youtube.com/shorts/995Rk9Xic3o
-
-https://youtube.com/shorts/P--5Z4uEhjc
-
-![DPSview](/Pictures/IMG_4732.JPG)
-![DPSview](/Pictures/IMG_4735.JPG)
-![DPSview](/Pictures/IMG_4733.JPG)
-![DPSview](/Pictures/IMG_4736.JPG)
-</details>
-
 ## How to establish a connection with Wi-Fi Router.
 Push "WiFi Reset" button for 3 seconds. The ESP8266 module switch to access point mode. Open WiFi settings on your phone. Choose "DPS TCP bridge", no password needed. Then click "Configure WiFi", choose your router, enter password and click "Save". Now the ESP8266 module is in the station mode and connected to your wifi router.
 For DPS alternative firmware you can use "Communication" menu "Wifi reset - Yes/No" item instead optional "WiFi Reset" button.
@@ -58,6 +45,20 @@ For DPS alternative firmware you can use "Communication" menu "Wifi reset - Yes/
 ## How to find out the local Wi-Fi IP address of ESP8266.
 Open the router's web page in a browser. View the list of clients.
 For DPS alternative firmware: Go to "Parameters" menu. Press the "SET" button. The IP address will be displayed for 3 seconds.
+
+## Video & Photo Gallery
+https://youtube.com/shorts/995Rk9Xic3o
+
+https://youtube.com/shorts/P--5Z4uEhjc
+
+![DPSview](/Pictures/IMG_4907.JPG)
+![DPSview](/Pictures/IMG_4732.JPG)
+![DPSview](/Pictures/IMG_4735.JPG)
+![DPSview](/Pictures/IMG_4733.JPG)
+![DPSview](/Pictures/IMG_4736.JPG)
+
+##  1.25mm 4-pin cable connector
+https://aliexpress.ru/item/1005004837211340.html
 
 ## How to use with DPS Chinese firmware
 Comment the line like this:
